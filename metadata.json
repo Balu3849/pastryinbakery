@@ -1,0 +1,6 @@
+{
+  "name": "PASTRY INN - Artisanal Bakery & Cafe",
+  "description": "Artisanal bakery in Andhra Pradesh offering handcrafted pastries, designer celebration cakes, fresh viennoiserie, digital QR menu, and online ordering with WhatsApp & UPI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
